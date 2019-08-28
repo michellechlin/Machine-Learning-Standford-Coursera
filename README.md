@@ -3,7 +3,7 @@
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Certificate](#certificate)
-* [References](#references)
+* [Reference](#reference)
 
 ## General Info
 
