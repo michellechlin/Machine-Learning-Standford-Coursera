@@ -1,5 +1,4 @@
 ## Machine-Learning-with-MATLAB (Coursera)
-## Machine-Learning-with-Python (Udemy Bootcamp)
 
 * [General Info](#general-info)
 * [Technologies](#technologies)
@@ -8,7 +7,7 @@
 
 ## General Info
 
-This repository is about use MATLAB a more theory-intensive course Andrew Ng's ML course using MATLAB programming on Coursera.  
+This repository is about use MATLAB a more theory-intensive course Andrew Ng's ML course using MATLAB programming on Coursera. Here contains the course materials and the exercises with my codes and assignment texts.  
 
 ## Technologies
 I completed this course with:
